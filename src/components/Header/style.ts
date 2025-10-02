@@ -5,8 +5,9 @@ export const MainHeader = styled.div`
 padding: 0px 30px 0px 30px;
 `
 
-export const Styleheader = styled.div `
+export const Styleheader = styled.div`
 height:auto;
+background-color:${colors.black};
 `;
 export const HeaderNav = styled.nav`
 display: flex;  

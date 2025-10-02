@@ -1,0 +1,1 @@
+export type Buttonvariant = "primary" | "secondary" | "tertiary";
