@@ -8,8 +8,6 @@ export const InnerContainer = styled.div`
     flex-direction: column;
     margin: 0px auto;
 
-// background-color:yellow;
-// padding:30px;
 `
 export const MainContainer = styled.div`
     width: 100%;
